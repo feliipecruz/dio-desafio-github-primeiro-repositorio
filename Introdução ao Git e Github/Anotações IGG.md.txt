@@ -1,6 +1,6 @@
 ﻿# Introdução ao Git/ Github
 
-### links uteis
+### links uteis:
 
 [Git](https://git-scm.com/download/win) **fazer download** - o git bash é um terminal extendido para otimizar o uso do Git
 
