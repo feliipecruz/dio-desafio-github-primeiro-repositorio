@@ -1,6 +1,6 @@
 # Introdução à Programação e Pensamento Computacional
 
-[Portugol](https://portugol-webstudio.cubos.io/)  **acessar** - ótima ferramenta para por em pratica a logica da programação
+[Portugol](https://portugol-webstudio.cubos.io/)  **acessar** - ótima ferramenta para por em pratica a logica da programação.
 
 Curso lecionado pela Juliana Mascharenhas, principal objetivo do curso mudar o mindset dos futuros programadores. 
 
